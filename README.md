@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ###   &nbsp;About Me
-- Full Stack Software Consultant
-- ⚙️ My favorite programming languages: Python, Javascript, Typescript
-- ⚙️ Others I know: C, C++, Java, C#
+- Full Stack Software Engineer
+- ⚙️ My top programming languages: Python, Javascript, Typescript
+- ⚙️ Others I've used: C, C++, Java, C#
 - 😄 Pronouns: he/him
 <a href="https://github.com/mbjackson7">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbjackson7&theme=apprentice&langs_count=3" />
